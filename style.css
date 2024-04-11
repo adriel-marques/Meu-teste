@@ -1,0 +1,76 @@
+.descricao {
+
+    color: springgreen;
+    background-color: rebeccapurple;
+    font-size: 20px;
+    text-align: center;
+    border: solid black;
+    padding: 8px;
+    margin: 7px;
+}
+
+.Titulo {
+
+    text-align: center;
+    background-color: yellow;
+    margin: 20px;
+    padding: 20px;
+    border: solid 10px ;
+}
+
+.imagem {
+
+    text-align: center;
+}
+
+.textos p{
+
+    font-size: 19px;
+    text-align: center;
+}
+
+.textosite span {
+
+    font-size: 20px;
+    color: red;
+}
+
+.textosite {
+
+
+    font-size: 18px;
+}
+.HTML {
+
+    font-size: 18px;
+
+}
+.imagem2 {
+    text-align: center;
+}
+.CSS {
+
+
+    font-size: 18px;
+}
+.imgcss {
+    text-align: center;
+}
+.javascript {
+
+font-size: 18px;
+}
+
+.imgjavascript {
+
+    text-align: center;
+}
+.textofinal {
+    font-size: 20px;
+}
+body {
+    background-color: yellowgreen;
+}
+table {
+    background-color: azure;
+}
